@@ -1,3 +1,14 @@
-*{
+body{
 	background-color:#cccccc;
+}
+.player_one{
+	background-color:white;
+}
+.player_two{
+	background-color:white;
+	text-align:center;
+	width:350px;
+	height:400px
+	padding:10px;
+	margin:auto;
 }
